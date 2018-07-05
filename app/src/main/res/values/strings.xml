@@ -1,0 +1,209 @@
+<resources>
+    <string name="app_name">Lecce Tour Guide</string>
+
+    <!-- Category name for places [CHAR LIMIT=20] -->
+    <string name="category_place">Places</string>
+    <!-- Category name for to see [CHAR LIMIT=20] -->
+    <string name="category_see">To see</string>
+    <!-- Category name for Events [CHAR LIMIT=20] -->
+    <string name="category_event">Events</string>
+    <!-- Category name for Food and drinks [CHAR LIMIT=20] -->
+    <string name="category_food">Food</string>
+    <!-- Category name for products [CHAR LIMIT=20] -->
+    <string name="category_product">Product</string>
+
+    <!-- Label tab for details [CHAR LIMIT=20] -->
+    <string name="details_site">Details Site</string>
+
+    <!-- Labels for details text link [CHAR LIMIT=20] -->
+    <string name="map">Map</string>
+    <string name="services">Services</string>
+    <string name="website">Website</string>
+
+
+    <string name="text_name">Name of place</string>
+    <string name="text_desc">Description of place</string>
+
+    <!-- String description image -->
+    <string name="card_favorite">Favorite icon</string>
+    <string name="card_bookmark">Bookmark icon</string>
+    <string name="card_share">share icon</string>
+    <string name="image_place">Image of place</string>
+    <string name="card_star">share icon</string>
+
+
+
+
+    <!-- *** PLACE *** -->
+    <!-- MUST Museum -->
+    <string name="place_must_museum_name">MUST Museum</string>
+    <string name="place_must_museum_desc">The MUST museum is dedicated to local history and art. The entrance is free. The MUST building was originally a monastery for the Order of Saint Clare. Since 1866, it is no longer a monastery. In the years, the building underwent several renewals.  </string>
+    <string name="place_must_museum_coord">18.171007, 40.351927</string>
+    <!-- Saint Oronzo Square -->
+    <string name="place_saint_oronzo_square_name">Saint Oronzo Square</string>
+    <string name="place_saint_oronzo_square_desc">Piazza Sant\'Oronzo is one of the most important squares of Lecce. The square has several precious monuments built over the centuries, that produce an interesting mix of styles. In the past Piazza Sant\'Oronzo had a very different appererance. In particular until the beginning of the XX century, the space of the Roman Amphitheatre was occupied by workshops and merchant stands. Following the discovery and the subsequent archaeological excavations, those small facilities were demolished to bring the ancient amphitheatre to light. The column with the statue of Sant’Oronzo, protector of the city, also stands in the square. In front of the statue the visitor may notice the harmonious building of the Sedile, the ancient seat of the Town Hall. Next to the Sedile , stands the church of San Marco , important evidence of the existence of a colony of Venetian merchants.</string>
+    <string name="place_saint_oronzo_square_coord">18.172574, 40.353185</string>
+    <!-- Villa Comunale -->
+    <string name="place_villa_comunale_name">Villa Comunale</string>
+    <string name="place_villa_comunale_desc">The Villa Comunale is the main urban park of Lecce. Completed towards the end of the nineteenth century, its realization is due to one of the most famous doctors of the city, Gaetano Stella, in honour of Giuseppe Garibaldi. It is also called \"Villa Garibaldi\", due to the presence of the bust of Giuseppe Garibaldi, and \"Villa della Lupa\" due to the presence, in the past, of some specimens of wolf locked up in a cage (the wolf is, moreover, a symbol of the city of Lecce, called by the Romans Lupiae). Its total area is about 34,000 square meters. It has an irregular plan, is surrounded by a fence wall and is characterized by an Italian garden with regular geometric shape, originated as \"cruxviarum\", since it was originally crossed and divided into four sections by two large suburban avenues. The vegetation in the garden is full of old trees. Among the tree species there are: pine, palm, poplar, willow, mimosa, araucaria, acacia, black locust, Judas tree, cypress, cedar, eucalyptus and a specimen of firmiana simplex. Among the shrub species: agave, yucca and phytolacca dioica.</string>
+    <string name="place_villa_comunale_coord">18.174893, 40.355219</string>
+    <!-- Villa Bray -->
+    <string name="place_villa_bray_name">Villa Bray</string>
+    <string name="place_villa_bray_desc">Villa Martini, today’s Villa Bray, is located near the city walls of the sixteenth century, along the modern Viale F. Lo Re. It is a building with moresca architecture’s features. Its peculiar stylistic elements are yellow and red horizontal stripes that wrap completely the villa, the battlements, horseshoe-shaped arches, the smallest decorative elements including two Arabic inscriptions, which occur along the sides of the building. These inscriptions are taken from the Koran, which celebrate Mohammed: “And there is no other God except Allah”. The main front aligned with the ancient circuit of the city walls and the villa has two entrances: the main and external on the Viale F. Lo Re, the secondary and external on the old city side. The garden is just in front of the main façade and it is not surrounding the residence on all sides. The private space in front of the residence is enclosed by a system of symmetrical ramps on both sides, with underlying accessories places, which form a continuous path from the street level to the balcony with shelves; the two ramps connecting on the first floor of the villa by a long and narrow terrace overlooking the courtyard. On both sides, they are in part supported by two small bridges (currently closed for the division of the property): in fact, senator Tommaso Martini, the customer of the villa, bought also the two smaller lands lining the building. In this way, he was in direct communication with his dépendances (a house for his daughter, currently Villino Nuzzaci-Sansonetti, and an unfulfilled coffee house), by bridges arches, without affecting the unitary image of the main block. </string>
+    <string name="place_villa_bray_coord">18.172227, 40.349054</string>
+    <!-- Post and Telecommunications Palace -->
+    <string name="place_post_and_telecommunications_palace_name">Post and Telecommunications Palace</string>
+    <string name="place_post_and_telecommunications_palace_desc">The Post and Telecommunications Palace lies along the eastern side of Piazza Giuseppe Libertini and was designed in “Baroque” style by engineers Andrea Gatto and Giuseppe Mantovano. It was opened on 28 October 1927, in the fifth anniversary of the March on Rome by Fascists. The pose of first stone (2 December 1922), by Umberto of Savoia, had taken place in 1914 even though a ministerial decree prohibiting any construction, even temporary, on the square, in order to ensure the view of the only open side of the Castle of Carlo V. The main façade of the building looks towards Piazza Libertini and is characterized by two balconies that are on the top of the entrances and were used for public conferences during Fascist period. The building is still the seat of the Post Office.</string>
+    <string name="place_post_and_telecommunications_palace_coord"> 18.173778, 40.353222</string>
+    <!-- Palazzo Adorno -->
+    <string name="place_palazzo_adorno_name">Palazzo Adorno</string>
+    <string name="place_palazzo_adorno_desc">The façade of Palazzo Adorno is entirely in plain bossage. The atrium walls are in diamond-shaped bossage. The Palace today houses local government offices. For this reason, the atrium, and the courtyard, are the only spaces open to the visit. Gabriele Adorno, general of the Emperor Carlo Quinto, commissioned and paid the construction of this notable building. It was completed in 1568 on a design likely due to Gabriele Riccardi, the famous local architect.</string>
+    <string name="place_palazzo_adorno_coord">18.172638,  40.356279</string>
+    <!-- Hypogeum Palmieri -->
+    <string name="place_hypogeum_palmieri_name">Hypogeum Palmieri</string>
+    <string name="place_hypogeum_palmieri_desc">The Hypogeum Palmieri is a funerary crypt. It was used from the fourth to the second century BC by a powerful family of the ancient population of the area: the Messapi . The tomb is very sumptuous for the period and this can be seen in both dimension and decorations. A staircase of 16 steps gives access to a vestibule and from this to three squared rooms. On the lower area, the walls were plastered and painted with horizontal bands of red and brown. The upper area had a stucco decoration. Traces of the original red color painting can still be seen along the staircase and the vestibule. A bas-relief with a sequence of scenes of combat is visible along the entrance staircase . The access doors to the three rooms are decorated with profiles supported by Doric pilasters. The ipogeo, was accidentally discovered during the seventeenth century by the owners of Palazzo Palmieri , a private Building in the historic center of the city. The area is still a private property, and hence the Hypogeum can be visited only by contacting the owners.</string>
+    <string name="place_hypogeum_palmieri_coord">18.168461, 40.354371</string>
+    <!-- Obelisk -->
+    <string name="place_obelisk_name">Obelisk</string>
+    <string name="place_obelisk_desc">The Obelisk is located in front of Porta Napoli, at the intersection between Viale degli Studenti and Via Taranto (the final stretch of the road that reached Lecce from the capital of the Kingdom of Two Sicilies). The Obelisk, designed by Luigi Cipolla, was built in 1822 by the sculptor Vito Carluccio (from Muro Leccese), in honor of Ferdinand I of Bourbon. The location of the monument was pounded away by the Decurionato of the City, which in 1824 invited the Provincial Deputation to move it in another place. Moreover, the obelisk was painted in black from Bourbons, but the first rain had erased any trace of colour. The Obelisk, made of local calcareous stone, about ten meters high, stands on a large base with steps and on a parallelepiped base. The four sides of the monument are decorated with bas-reliefs depicting the coats of arms and the mythical stories of the four districts of the ancient province of Terra d’Otranto: Brindisi, Gallipoli, Lecce and Taranto, which are a rooster, a scorpion, a deer and a wolf. Instead, the lion with 27 stars alludes to the zodiac of the same province. The provincial emblem is present on the base; it is a dolphin biting a crescent, which symbolizes the victory over the Turks. On the structure there are also several Latin inscriptions that concern the various places represented and their distances. A long inscription refers to the visit of Ferdinand I, which represented a very important historical for Lecce.</string>
+    <string name="place_obelisk_coord">18.167206, 40.356859</string>
+    <!-- Diocesan Museum -->
+    <string name="place_diocesan_museum_name">Diocesan Museum</string>
+    <string name="place_diocesan_museum_desc">The Diocesan Museum of Lecce is located in the building of the Seminary, in Piazza Duomo. It features a collection of paintings, sculptures, and liturgical vestments that reconstruct the artistic history of the Diocesi of Lecce. The paintings range from the late fifteenth century to the end of the eighteenth century. Visit the Museum\n- Winter time : Tuesday to Saturday from 09.30 to 12.30 ; from 16.00 to 19.00. Open Sundays by appointment only\n- Summer time : Tuesday to Saturday from 09.30 to 12.30 from 17.00 to 20:00. Open Sundays by appointment only\nAdmission fee with discounts for groups , seniors, children:\n€ 1.00 per visit limited to the ground floor : cloister , chapel\n€ 4.00 for the visit to be made also to the Diocesan Museum , which exhibits vestments, silverware , paintings.</string>
+    <string name="place_diocesan_museum_coord">18.168464, 40.352079</string>
+
+    <!-- *** TO SEE *** -->
+    <!-- Monastery Olivetani -->
+    <string name="see_monastery_olivetani_name">Monastery Olivetani</string>
+    <string name="see_monastery_olivetani_desc"> This imposing monastery was built originally for the order of the Benedettini Neri . In 1494, the monastery was given to the new order of the Benedettini di Monte Oliveto . Around that time, the building was gradually renewed.The beautiful columned courtyard, with its magnificent baldachin shaped well, due to Gabriele Riccardi, dates back to 1559, but the external facade with its large stairs was realised during the XVIII century. </string>
+    <string name="see_monastery_olivetani_coord">18.16569, 40.362157</string>
+    <!-- Roman Theatre -->
+    <string name="see_roman_theatre_name">Roman Theatre</string>
+    <string name="see_roman_theatre_desc">The Roman Theatre, together with the larger Roman Amphitheatre, is the most important remaining of Lupiae, the Roman ancestor of Lecce. The Romans excavated the <i>cavea </i>in the rock, and finished it by using their construction technique known as the <i>Opus Quadratum</i>. The resulting <i>cavea</i> had six sectors, divided by five radial stairs. Each sector counted 12 steps, about 35 centimeters tall and 70 centimeters deep, where the public used to stand to watch performances. Most steps have been restored. In front of the area dedicated to the chorus the tourist can notice an area paved with white marble, and three large steps. This area hosted the seats reserved for the most affluent spectators. The theatre scene measured 30 by 8 meters, and stood about 70 centimeters above the chorus level.</string>
+    <string name="see_roman_theatre_coord">18.170485, 40.351841</string>
+    <!-- Roman Amphitheatre -->
+    <string name="see_roman_amphitheatre_name">Roman Amphitheatre</string>
+    <string name="see_roman_amphitheatre_desc">The Roman Amphitheatre is the largest monument of Lupiae, the ancestor of the Roman city of Lecce. Exterior Architecture The Amphitheatre, as a whole, is 102 meters long and 83 meters wide. The arena alone is 53 meters long  and 34 meters wide. The Amphitheater was partially excavated in the rock and partly built on arches. The entire structure was then refined using the construction technique known as \" Opus Quadratum \". Today, less than a third of the arena and the lower order bleachers have been brought to the surface. In terior Architecture The Amphitheater overall aspect was similar to other Roman Amphitheaters, such as the Coliseum in Rome or the Arena in Verona. The visitor can notice in particular the massive pillars that sustained the upper order bleachers. History The Amphitheater dates back between the first and the second century A.D. It was discovered in the first years of the 20th century, during the realization of the building for the Bank of Italy local offices. The prominent local archaeologist and scientist Cosimo De Giorgi was the person who most actively supported the need for the excavation works to be carried out. The work lasted until 1940, well after De Giorgi had died in 1922.The Amphitheater dates back between the first and the second century A.D. It was discovered in the first years of the 20th century, during the realization of the building for the Bank of Italy local offices. The prominent local archaeologist and scientist Cosimo De Giorgi was the person who most actively supported the need for the excavation works to be carried out. The work lasted until 1940, well after De Giorgi had died in 1922.</string>
+    <string name="see_roman_amphitheatre_coord">18.172847,  40.35226</string>
+    <!-- St. Irene Church -->
+    <string name="see_st_irene_church_name">St. Irene Church</string>
+    <string name="see_st_irene_church_desc">Sant’Irene interior is on a Latin cross plan, with one single nave and three chapels on each side. The left side chapels host the altars of Santo Stefano, with the painting about the lapidation of the Saint, by Antonio Verrio, the altar of the Holy Cross and the altar of the Vergine del Buon Consiglio. The left wing of the transept hosts three altars: the altar of Sant’Oronzo, by Francesco Antonio Zimbalo, uncle of the famous architect Giuseppe Zimbalo, dating back to 1650, the altar of Sant\'Irene dating back to 1639, and the altar of the Holy Family dating back to 1672. In particular, the altar of Sant\'Irene houses the sculpted busts of nine Saints, each containing the relic of the saint himself. A sculpture of Sant\'Irene stands above them. The right wing of the transept hosts three altars too: the altar of the Guardian Angel dating back to about 1700; the altar dedicated in 1651 to San Gaetano by the Bishop of Otranto Gaetano Cassa, and the altar of Sant’Andrea. The chapels on the right side host the altar of Saint Carlo Borromeo, the altar of the Archangel Michael realised by Cesare Penna in 1642, and the altar of the Souls of the Purgatory hosting a contemporary painting by Luigi Scorrano. The main altar, in the apsis, was renewed in 1753. Behind it is worth noticing one of the most known paintings by Oronzo Tiso: the Transportation of the Holy Ark. Among other notable paintings the Sacristy hosts the \"Madonna della Libera\". Sant’Irene construction began in 1591 and ended in 1639. The Virgin Irene from Thessaloniki, at that time, was still the patron saint of Lecce. Pope Alexander VII, in fact, proclaimed Sant’Oronzo patron Saint only later on, in 1658, because of the popular belief that Sant’Oronzo had protected Lecce from a dramatic plague epidemic that had just ravaged all southern Italy but Lecce.</string>
+    <string name="see_st_irene_church_coord">18.17043,  40.352985</string>
+    <!-- Piazza Duomo -->
+    <string name="see_piazza_duomo_name">Piazza Duomo</string>
+    <string name="see_piazza_duomo_desc">Piazza Duomo is extremely representative of the local Baroque style. It is enclosed for three sides, with just one side open for access. Entering the square, through the Propilei, the visitor may notice in front of him the Cathedral and the building of the Episcopio, on its left the imposing Bell Tower, and, on its right, the building of the Seminary. The architectural design of the overall area, was chosen by the Bishop Gerolamo Guidano (1420&#8211;1425).</string>
+    <string name="see_piazza_duomo_coord">18.16889, 40.351928</string>
+    <!-- Porta Rudiae -->
+    <string name="see_porta_rudiae_name">Porta Rudiae</string>
+    <string name="see_porta_rudiae_desc">Porta Rudiae is the oldest of the three portals of access to the city historic centre. Its facade presents a single arc, flanked by two lean columns on each side, and a sculpture of a blessing Sant’Oronzo on its top. The columns rest on agile plinths, and sustain a main beam, where the tourist may notice sculptures of the characters that, according to the legend, founded the messapic city: Malennio, his son Dasumno, Euippa and Lizio Idomeneo, who gave the name to the city. Porta Rudiae was completed in 1703.\nIt replaced an older portal that had collapsed a few years before, at the end of the XVII century.\nIt faces the road to Rudiae, a nearby ancient messapic city, that was destroyed in 1147 by the Norman Guglielmo the Malo.\nAccording to the popular tradition (which may be a legend), the Rudiae refugees were welcomed in Lecce, where they founded the neighbourhoods of Lizzano and Lizzanello.</string>
+    <string name="see_porta_rudiae_coord">18.164589,  40.351393</string>
+    <!-- Holy Cross Cathedral -->
+    <string name="see_holy_cross_cathedral_name">Holy Cross Cathedral</string>
+    <string name="see_holy_cross_cathedral_desc">The Cathedral of the Holy Cross is one of the best examples of the local Baroque style. Exterior Architecture The lower order of the facade, up to the peculiar baluster, presents columns with Corinthian capitals. The elegant central portal presents a couple of smaller columns on each side . This lower order ends in beautiful trabeation , decorated with bas-relieves portraying humans, lions, puttoes , vases and leaves. An elaborated composition of caryatides, gryphons and lions, sustains the baluster, marking the beginning of the facade upper order. The main element of this order is the famous big rose window, surrounded by sculpted laurel leaves. Interior Architecture The interior, on a Latin cross plan, originally presented a nave and four aisles. In the 18th century, the two outmost aisles were transformed in side chapels. Sixteen columns sustain the aisles. Their capitals are in different styles. The church presents seventeen altars. The nave has a rich wooden caisson ceiling. The Cathedral hosts several paintings, among which the most notable are: the Trinity by Gianserio Strafella, Saint Anthony of Padua by Oronzo Tiso and The Adoration of the Shepherd by Giovanni Battista Lama. Main historic events The Cathedral of the Holy Cross was built from 1549 to 1646.  The construction work, hence, lasted more than 100 years. The lower order was completed in 1582, the dome in 1590. The portal was added from 1606 onwards, under the direction of Francesco Antonio Zimbalo. The church was completed by his successors Cesare Penna and Giuseppe Zimbalo . The Cathedral of the Holy Cross was built from 1549 to 1646. The construction work, hence, lasted more than 100 years. The lower order was completed in 1582, the dome in 1590. The portal was added from 1606 onwards, under the direction of Francesco Antonio Zimbalo. The church was completed by his successors Cesare Penna and Giuseppe Zimbalo.</string>
+    <string name="see_holy_cross_cathedral_coord">18.172856, 40.354664</string>
+    <!-- Palace of the Celestini -->
+    <string name="see_palace_of_the_celestini_name">Palace of the Celestini</string>
+    <string name="see_palace_of_the_celestini_desc">The Palace of the Celestini is one of the main landmarks of the local Baroque style. Its façade is nicely coordinated with the adjacent façade of the Holy Cross Cathedral. The visitor may notice, in particular, the closely matching height of the first orders of both façades. Several windows finely decorate this magnificent façade, due to two of the most famous local artists: Giuseppe Zimbalo, who designed the lower order, and Giuseppe Cino, who later designed the upper order. Puttoes and fruits decorate the portal, at the centre of the façade. The Celestini Palace construction began in 1549, but most work was carried out during the XVII century. It was in origin  a monastery for the order of the Padri Celestini. When the order was suppressed, in 1807, the building began to host government offices. Today it still does, and because of this only external areas are open to visit. </string>
+    <string name="see_palace_of_the_celestini_coord">18.172573, 40.355191</string>
+    <!-- Sedile -->
+    <string name="see_sedile_name">Sedile</string>
+    <string name="see_sedile_desc"> The Sedile, in Piazza Sant’Oronzo, is a quite original monument.\nCubic in shape, it presents two floors.\nThe lower floor presents two arches decorated with sculptures of weapons,\nwhile the upper floor presents three small arches on each side. The monument interior used to host several frescoes about the life of the Emperor Charles the fifth. Internally the visitor can notice, with an epigraph in Spanish by Carlo terzo of Borbone, in which the king thanks Lecce for the gift he had received of some miraculous oil from the Sant’Oronzo lamp. The Sedile was realised in 1592 to host the local municipal offices, which, in fact, were moved only in 1851. </string>
+    <string name="see_sedile_coord">18.172409, 40.352821</string>
+    <!-- Bell Tower -->
+    <string name="see_bell_tower_name">Bell Tower</string>
+    <string name="see_bell_tower_desc">The Bell Tower of the Lecce Cathedral was designed by the famous local architect Giuseppe Zimbalo. Zimbalo chose a five floors structure, decorated with balconies and balusters, reaching an imposing height of 70 meters, which makes it one of the tallest bell towers in Europe. The tower, because of its imposing height, can be seen from almost any point in the centre of Lecce. The Bell Tower was completed in 1682. It was built to replace an earlier structure, built by the Norman duke Goffredo d\'Altavilla, which had collapsed in the early 17th century. Climbing up the long ladder, up to the fourth floor, the visitor may read epigraphs devoted to the Holy Virgin and to the Saints Oronzo, Giusto and Fortunato. The last floor is an octagonal balcony surmounted by a vault with four pinnacles and a revolving weather vane. From the balcony, the visitor can see the Adriatic Sea. </string>
+    <string name="see_bell_tower_coord">18.168742, 40.352057</string>
+
+    <!-- *** EVENTS *** -->
+    <!-- Feast of Saint Oronzo -->
+    <string name="events_feast_of_saint_oronzo_name">Feast of Saint Oronzo</string>
+    <string name="events_feast_of_saint_oronzo_desc">The Feast of Saint Oronzo is the most important religious celebrations of Lecce. Every year, from August the 24th to the 26th, Lecce celebrates its three patron saints: Oronzo, Giusto and Fortunato. Both religious celebrations and musical events last for three days and culminate with the fireworks at midnight on August the 26th. Very characteristic is the procession in honor of the Saints, which takes place on August 24th. The procession starts at the Lecce Cathedral, goes through most of the old town, and ends in Piazza Sant\'Oronzo.</string>
+    <string name="events_feast_of_saint_oronzo_coord">18.175016,  40.351516</string>
+    <!-- Notte della Taranta -->
+    <string name="events_notte_della_taranta_name">Notte della Taranta</string>
+    <string name="events_notte_della_taranta_desc">The Notte della Taranta is a popular Salento music festival, which in recent years has met considerable success, even internationally. It takes place in various towns in the province of Lecce; it ends in the village of Melpignano, with a final concert, which hosts every year, several artists, musicians, singers and orchestra directors of international relevance. The final concert is entrusted to a master conductor, with the task of arranging and revisiting the traditional Salento music, adapting it to the rhythms played and sung by the guest artists.</string>
+    <string name="events_notte_della_taranta_coord">18.174295, 40.354131</string>
+    <!-- Focara di Sant'Antonio -->
+    <string name="events_focara_di_sant_antonio_name">Focara di Sant\'Antonio</string>
+    <string name="events_focara_di_sant_antonio_desc">The Focara is the main symbol of the religious festival in honor of Sant\'Antonio Abate , which is held every year in Novoli, a town near Lecce. The festivities begin January the 6th, with a solemn ceremony, and end January the 18th, with the so-called party of villagers . The Focara is a large bonfire made up of vines. Formed by at least 90000 fagots and reaching 25 meters in height, the focara is one of the largest bonfires in Europe. The assembly work for it begins in the early days of December, and it is lit on January the 16th. The event is today known throughout Puglia and elsewhere, and it has been the subject of a National Geographic documentary.</string>
+    <string name="events_focara_di_sant_antonio_coord">18.174295, 40.354131</string>
+    <!-- Cortili Aperti -->
+    <string name="events_cortili_aperti_name">Cortili Aperti</string>
+    <string name="events_cortili_aperti_desc">The Cortili Aperti is an event held every year in Lecce, in the spring. It consists in the extraordinary opening of many historical buildings, courtyards and monuments that are not usually open to visit. </string>
+    <string name="events_cortili_aperti_coord">18.174295, 40.354131</string>
+    <!-- Festa di San Rocco -->
+    <string name="events_festa_di_san_rocco_name">Festa di San Rocco</string>
+    <string name="events_festa_di_san_rocco_desc">The Festa di San Rocco is held annually in Torrepaduli, a small town near Lecce, from the 15th to the 16th of August. Thousands of people every year enjoy this feast, and in particular the so-called Dance of Swords. The dance consists of dancing duels reserved to men only, in which challengers improvise steps and simulate a battle, accompanied by the rhythm of tambourines, castanets and other instruments.</string>
+    <string name="events_festa_di_san_rocco_coord">18.174295, 40.354131</string>
+    <!-- Sagra de lu Ranu -->
+    <string name="events_sagra_de_lu_ranu_name">Sagra de lu Ranu</string>
+    <string name="events_sagra_de_lu_ranu_desc">The Sagra de lu Ranu is an event held every year in Merine, a small town in the province of Lecce, during the first half of July. It is a festival that, over the years, has reached one hundred thousand presences, with a significant resonance at the national level. During the three-day festival the visitor can taste many peasant dishes: the famous orecchiette , various breads and buns, lu ranu stumpatu , a dish made of wheat grains, prepared with spicy tomato sauce and cheese, frisedde , bruschette and many other dishes, including fresh meat and vegetables. Try to solve the new Formula Cube! It works exactly like</string>
+    <string name="events_sagra_de_lu_ranu_coord">18.225994, 40.332727</string>
+    <!-- Alba dei Popoli -->
+    <string name="events_alba_dei_popoli_name">Alba dei Popoli</string>
+    <string name="events_alba_dei_popoli_desc">The Alba dei Popoli is an event held every year in Otranto, on the occasion of New Year’s eve. It is a festival of art, culture, music and shows, born in 2000.</string>
+    <string name="events_alba_dei_popoli_coord">18.174295,40.354131</string>
+
+    <!-- *** FOOD *** -->
+    <!-- Pasticciotto -->
+    <string name="food_pasticciotto_name">Pasticciotto</string>
+    <string name="food_pasticciotto_desc">The Pasticciotto is a typical dessert of Salento, prepared with a pastry filled with custard and baked in the oven. The best way to enjoy it is to eat it when it is still warm, The Pasticciotto is one of the products that most contributed to the diffusion of the typical cuisine of the Salento. Its origin is still disputed. A document dated 1707 and preserved in the archives of the  Diocesi di  Nardo, cited some containers useful for the preparation of  pasticciotto . In 1745, at the pastry shop of the Family Ascalone, the recipe was prepared for the Feast of St. Paul. The success was immediate, and lu  Pasticciotto  de lu Scalone became the most famous sweet of Salento.</string>
+    <string name="food_pasticciotto_coord">18.170267, 40.173881</string>
+    <!-- Primitivo di Manduria -->
+    <string name="food_primitivo_di_manduria_name">Primitivo di Manduria</string>
+    <string name="food_primitivo_di_manduria_desc">The Primitivo is a wine from Manduria, the area of the Salento located on the border between the province of Lecce and the province of Taranto. The Primitivo is a red wine, tending to a shade of purple, with a taste pleasant and full. While aging, it tends to become orange in color and velvety in taste. It goes well with all dishes of the local gastronomic tradition, from appetizers to pasta, to red roasted meat. </string>
+    <string name="food_primitivo_di_manduria_coord">18.172448, 40.348645</string>
+    <!-- Rustico -->
+    <string name="food_rustico_name">Rustico</string>
+    <string name="food_rustico_desc">The rustico is part of the culinary tradition of Salento; it is popular, and hence easy to find, at any bar, deli and bakery of the province of Lecce. It is prepared stuffing two disks of puff pastry with white sauce, peeled tomatoes, and mozzarella, flavored with pepper and nutmeg. The dough is then brushed with egg yolk and cooked in the oven. </string>
+    <string name="food_rustico_coord">18.169806, 40.352773</string>
+    <!-- Friseddha -->
+    <string name="food_friseddha_name">Friseddha</string>
+    <string name="food_friseddha_desc">The friseddha , also called frisa , frisella or freseddha , is a bakery product. The product is baked a first time, then cut horizontally and after that it is put in the oven again. This procedure results in a product porous on one side, and very compact on the other. The dough for the friseddha is obtained from wheat, barley or a mixture of the two. Before World War II, most often the frisa made whit pure wheat was reserved to the rich; while the poor often consumed the ones prepared with barley flour or with the wheat barley mixture. Usually the friseddha is soaked in water before consumption to soften it. The seasoning is a matter of individual taste, but the most classic seasoning all over Southern Italy is made from fresh tomatoes, oregano, salt, extra virgin olive oil, and optionally chili or garlic. The friseddha is a very old food, known since the time of the Crusaders. It was used as a main meal in the travel of the Christian troops, because it was easy to carry and was edible for a long time after being prepared. </string>
+    <string name="food_friseddha_coord">18.168828,  40.352297</string>
+    <!-- Mustazzoli -->
+    <string name="food_mustazzoli_name">Mustazzoli</string>
+    <string name="food_mustazzoli_desc">The Mustazzoli are sweets typical of the Salento, also popular in Naples and in Sicily. Probably originating in the Arab world they are prepared with flour, sugar, almonds, lemon, honey, cinnamon and other spices, then covered with a chocolate glaze. </string>
+    <string name="food_mustazzoli_coord">18.169292, 40.351687</string>
+    <!-- Pittule -->
+    <string name="food_pittule_name">Pittule</string>
+    <string name="food_pittule_desc">Pittule are a starter dish typical of the Salento, also known by other names, such as pettole, pettule, zeppole. The basic dough is prepared with flour, yeast, salt and water; after a long rising, the dough balls are fried and served hot. Variants may include the addition of vegetables, anchovies, tomatoes,  anchois.</string>
+    <string name="food_pittule_coord">18.168828, 40.352297</string>
+    <!-- Ciceri e Tria -->
+    <string name="food_ciceri_e_tria_name">Ciceri e Tria</string>
+    <string name="food_ciceri_e_tria_desc">The soup Ciceri e Tria is a hot first course, typical of the rural tradition of Salento. It is prepared with a base of chickpeas mixed with a homemade pasta, called tria , partly boiled, partially fried. In fact, the word tria comes from the Arabic itrya meaning fried or dry dough. The Arabs were the first to dry the grain to make it apt to long term storage. This tradition, over the centuries, has also come to the Salento, becoming one of the methods for preparing soups of pasta and legumes. Ciceri e Tria is a dish that is often found on the tables for the Feast of San Giuseppe, March the 19th.</string>
+    <string name="food_ciceri_e_tria_coord">18.168828, 40.352297</string>
+    <!-- Fave e cicorie -->
+    <string name="food_fave_e_cicorie_name">Fave e cicorie</string>
+    <string name="food_fave_e_cicorie_desc"> Fava beans and chicory is a simple dish of the traditional cuisine of Puglia. Mashed fava beans and wild chicory are fried with garlic, tomatoes and black olives. Today this very poor dish is appreciated by many tourists.</string>
+    <string name="food_fave_e_cicorie_coord">18.175016, 40.351516</string>
+    <!-- Negroamaro -->
+    <string name="food_negroamaro_name">Negroamaro</string>
+    <string name="food_negroamaro_desc">The Negroamaro is a red grape variety, typical of Salento, mainly used for the production of rosé. It is one of the most common varieties in southern Italy and its name comes from the combination of two words: niger , meaning dark in Latin, and mavros , meaning bitter in ancient Greek. The dialect term maru comes from the latter.</string>
+    <string name="food_negroamaro_coord">18.172703, 40.355481</string>
+    <!-- Taieddha -->
+    <string name="food_taieddha_name">Taieddha</string>
+    <string name="food_taieddha_desc">The Taieddha , or Taieddhra , is one of the most beloved and popular dishes of the Salento. In the Taieddha flavors from the land and sea coexist in a perfect union. The Taieddha is prepared by stacking layers of potatoes, tomatoes, zucchini and onion, interspersed with rice and mussels; everything is seasoned with extra virgin olive oil and local baked. The preparation does not follow very rigid rules, a fact that makes the Taieddha a perfect dish to unleash the creativity of the chef.</string>
+    <string name="food_taieddha_coord">18.174295, 40.354131</string>
+
+    <!-- *** PRODUCTS *** -->
+    <!-- Ceramic of Lecce -->
+    <string name="products_ceramic_of_lecce_name">Ceramic of Lecce</string>
+    <string name="products_ceramic_of_lecce_desc">The production of ceramics and terracotta is a very ancient tradition of craftsmanship, widespread in some areas of Salento and transmitted through the centuries. In particular, the city of Cutrofiano, in the province of Lecce, has origins strongly linked to the tradition of ceramic production, rising in the middle of an area affected by the presence of clay quarries. The first evidence of the presence of over 30 artisan workshops dedicated to the production of ceramics dates back to 1700, although this activity seems to have been developed since the Middle Ages. Today, the territory of Cutrofiano and the surrounding lands, are characterized by a strong presence of craft enterprises in the ceramic industry: the clay is molded and decorated with antique motifs, lines, greek and flowers, identical to those used in the past. The term Cutrofiano derives from two Greek words: \"Cutra\", which means vase and \"Fio\" that corresponds to manufacturing. The production of vases, crockery, tiles and various types of products follows a process that has remained intact over time, which includes working on the lathe, exposure to the sun and baking in the oven. The final phase involves the manual decoration by the master figuli, together with a subsequent second cooking.</string>
+    <string name="products_ceramic_of_lecce_coord">18.201458, 40.126747</string>
+    <!-- Papier-mache -->
+    <string name="products_papier_mache_name">Papier-mache</string>
+    <string name="products_papier_mache_desc">The working of the Cartapesta is an ancient craft, widespread throughout the territory of southern Italy, but in Salento it has found a particular declination in the production of statues and objects of sacred art, which have become famous all over the world. The baroque churches in the province of Lecce are enriched by monumental papier-mâché statues, depicting the saints of popular and religious tradition. Today, this ancient art, is revisited by contemporary artists, through the creation of artifacts and statues, much appreciated by visitors and tourists. The artisanal production of \"pupi\" from cribs in papier-mâché is celebrated every year during the Christmas holidays, with a flea market specialized in displaying and selling nativity scenes, characters and objects in papier-mâché. The origins of the papier-mâché art probably date back to the seventeenth and seventeenth centuries, a period in which the taste of the artisans of Lecce was evolving, thanks to the construction of churches and monuments. Probably, not having precious raw materials, the artisans developed the ability to use poor raw materials such as straw, rags, paper, glue and plaster, making sacred works and decorations of admirable beauty, with patience and modest work tools.</string>
+    <string name="products_papier_mache_coord">18.175016, 40.351516</string>
+    <!-- Lecce stone -->
+    <string name="products_lecce_stone_name">Lecce stone</string>
+    <string name="products_lecce_stone_desc">The Pietra Leccese, also known by the dialect word Leccisu, is a limestone rock dating back to the Miocene, characteristic of the Salento peninsula and known above all for its ease of processing.  The art of carving the Lecce stone is an ancient tradition that derives from the great availability of quarries on the territory and the skill of local craftsmen, who have contributed to making the image of Salento unique, through exclusive works such as the facades of churches and palaces of the historical centers.  Today, this ancient art is revisited by contemporary sculptors through the creation of decorative objects and artifacts useful in everyday life.  The streets of the historic centers of Salento are enriched with shops and showcases of local artists, offering a splendid variety of objects that recall and celebrate the local artistic tradition.</string>
+    <string name="products_lecce_stone_coord">18.175016,  40.351516</string>
+    <!-- Wrought iron -->
+    <string name="products_wrought_iron_name">Wrought iron</string>
+    <string name="products_wrought_iron_desc">Wrought iron craftsmanship is an ancient activity, widespread in the Salento area. During the Liberty period, during the first decades of the 900, it had a period of particular splendor: the iron, modeled and painted, was used for urban furnishings and for the decoration and embellishment of private houses. Wrought iron is also linked to sacred architecture; in fact, churches and convents, in the Baroque period, were decorated with iron elements, skilfully forged by local craftsmen.  Wrought iron crafts have had a renewed success in recent years, thanks also to the precious activity of the Art Institutes, which are engaged in training activities oriented towards contamination with foreign countries and the knowledge of new techniques.</string>
+    <string name="products_wrought_iron_coord">18.174295,  40.354131</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+
+</resources>
